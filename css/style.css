@@ -1,0 +1,12 @@
+.my_slider{
+	padding: 0;
+}
+
+.my_slider .carousel-item{
+	display: flex;
+	max-height: 500px;
+}
+
+.my_slider .carousel-item img{
+	object-fit: cover;
+}
